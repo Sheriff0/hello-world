@@ -1,2 +1,1 @@
-# hello-world
-An Intro to git
+windows.alert('Hello World');
